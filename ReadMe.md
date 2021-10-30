@@ -1,7 +1,7 @@
 # github.com/medicplus-inc/vault-consul
 
 ## Description
-Infra tools to run vault and consul in docker container
+Infra tools for vault and consul services
 
 ## Dependencies
 
